@@ -18,8 +18,6 @@ docker image ls
 docker run -p 4869:80 zimg
 ```
 
----
-
 ## If you want to run it anywhere
 
 + Tag:
