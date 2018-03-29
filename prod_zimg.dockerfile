@@ -1,7 +1,8 @@
 # use CentOS environment
-From centos
+# use our dev image
+From centos_dev
 
-#RUN git clone https://github.com/buaazp/zimg -b master --depth=1
+# RUN git clone https://github.com/buaazp/zimg -b master --depth=1
 ADD ./zimg
 RUN cd zimg && make
 

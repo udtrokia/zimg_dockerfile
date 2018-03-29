@@ -1,3 +1,8 @@
+## Two way to optimize
+
++ Remove the junk file
++ Build from dev_enviroment
+
 ## How to use
 
 + Build:
